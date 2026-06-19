@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "major": 1,
-  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.0.1/cgfs-rig-anim-toolkit-v1.0.1.zip",
-  "changelog": "Fixed Curve Creator: offset-group curves now track the correct path (color, constraint, and selection no longer fail with 'Create offset group' on).",
+  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.0.2/cgfs-rig-anim-toolkit-v1.0.2.zip",
+  "changelog": "Rig: one-click Orient Joint Chain. Curves: exact colors on all shapes + recolor/thickness after creation, world/local orient, Rotate 90. Pose: redesigned Randomize with live nudge. Clean: Euler filter fixed + Delete-Static crash fixed.",
   "upgrade_url": "https://cgfamilystudio.gumroad.com/l/cgfs-rig-anim-toolkit-pro",
   "discount_url": ""
 }
