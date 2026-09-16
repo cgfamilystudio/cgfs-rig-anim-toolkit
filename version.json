@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "major": 1,
-  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.1.1/cgfs-rig-anim-toolkit-v1.1.1.zip",
-  "changelog": "NEW: Guided Skeleton Builder (Pro) - place guides, build UE5 Mannequin or HumanIK-ready skeletons with mirroring, twist/IK/end joint toggles, templates and sockets. HumanIK naming auto-characterizes in Maya. NEW: Control Naming in Curves - auto-name controls from the selected joint. NEW: Orient to World. Apply to Selected for curve size and orientation. Fixed Sphere and Pin shapes. Responsive layout, collapsible Rig sections.",
+  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.1.2/cgfs-rig-anim-toolkit-v1.1.2.zip",
+  "changelog": "Fixed: Orient to World now truly aligns joints to world axes (previously aligned to the parent joint). End joints from the Skeleton Builder are now world-oriented. New: incremental orientation offset - nudge a joint's orientation by a set number of degrees about any local axis.",
   "upgrade_url": "https://cgfamilystudio.gumroad.com/l/cgfs-rig-anim-toolkit-pro",
   "discount_url": ""
 }
