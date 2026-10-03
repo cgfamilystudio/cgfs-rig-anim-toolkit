@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "major": 1,
-  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.2.2/cgfs-rig-anim-toolkit-v1.2.2.zip",
-  "changelog": "New: Auto IK/FK chains (Pro) - rig tails, tentacles, antennae and props in one click. New free animator tools: no-pop IK/FK match and switch, space switching, mirror and flip pose, reset, select and key all controls. Maya-profile rigs built with 1.2.0: rebuild to get limb volume that follows IK/FK.",
+  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.2.3/cgfs-rig-anim-toolkit-v1.2.3.zip",
+  "changelog": "Much faster selection, undo and Rig tab on large scenes. Moving a knee pole no longer turns the foot: the foot and toes now take their angle from the foot control alone. Knees bend toward their pole and elbows away from it, including on characters modelled with bent limbs. Rebuild rigs (Rig tab > Build Rig) to get the rig fixes.",
   "upgrade_url": "https://cgfamilystudio.gumroad.com/l/cgfs-rig-anim-toolkit-pro",
   "discount_url": ""
 }
