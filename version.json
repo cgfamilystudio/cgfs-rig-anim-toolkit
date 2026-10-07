@@ -1,8 +1,8 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "major": 1,
-  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.2.3/cgfs-rig-anim-toolkit-v1.2.3.zip",
-  "changelog": "Much faster selection, undo and Rig tab on large scenes. Moving a knee pole no longer turns the foot: the foot and toes now take their angle from the foot control alone. Knees bend toward their pole and elbows away from it, including on characters modelled with bent limbs. Rebuild rigs (Rig tab > Build Rig) to get the rig fixes.",
+  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.2.4/cgfs-rig-anim-toolkit-v1.2.4.zip",
+  "changelog": "The Rig tab now says when a rig was built by an older version and needs Build Rig again (rigs from earlier versions will ask once). Building the rig again keeps the character's registered meshes, including a registered group of meshes, and their skinning. A joint chain under the head, such as a braid, no longer breaks the neck.",
   "upgrade_url": "https://cgfamilystudio.gumroad.com/l/cgfs-rig-anim-toolkit-pro",
   "discount_url": ""
 }
