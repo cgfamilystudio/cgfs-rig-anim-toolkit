@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "major": 1,
-  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.2.4/cgfs-rig-anim-toolkit-v1.2.4.zip",
-  "changelog": "The Rig tab now says when a rig was built by an older version and needs Build Rig again (rigs from earlier versions will ask once). Building the rig again keeps the character's registered meshes, including a registered group of meshes, and their skinning. A joint chain under the head, such as a braid, no longer breaks the neck.",
+  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.2.5/cgfs-rig-anim-toolkit-v1.2.5.zip",
+  "changelog": "A cleaner, collapsible UI. Controls are fitted outside the character mesh, and extra bones get controls of their own. A Getting the Best Results guide in the About tab. Build Rig again now keeps the animation on the controls. Fixed: rebuilding or deleting a POSED rig could leave the skeleton slightly posed. If you rebuilt a posed rig with 1.2.4, check the skeleton at rest.",
   "upgrade_url": "https://cgfamilystudio.gumroad.com/l/cgfs-rig-anim-toolkit-pro",
   "discount_url": ""
 }
