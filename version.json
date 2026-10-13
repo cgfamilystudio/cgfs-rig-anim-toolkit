@@ -1,8 +1,8 @@
 {
-  "version": "1.2.6",
+  "version": "1.3.0",
   "major": 1,
-  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.2.6/cgfs-rig-anim-toolkit-v1.2.6.zip",
-  "changelog": "FREE: convert skeleton naming between Unreal and Maya/HumanIK/Mixamo (Clean tab). Standalone chains for props and accessories, attached to any object. An IK bones option for Unreal Mannequin compatibility, driven by the rig.",
+  "download_url": "https://github.com/cgfamilystudio/cgfs-rig-anim-toolkit/releases/download/v1.3.0/cgfs-rig-anim-toolkit-v1.3.0.zip",
+  "changelog": "SKINNING: Smart Bind with body / clothing roles and bone assignments, Update Clothing, Polish Selected, mirror, smooth, transfer, cleanup and validate. EXPORT TO UNREAL: the skeletal mesh and named animation clips from the new EXPORT tab. The skeleton name converter is now the Mixamo / HIK Character Converter. Each animation clip exports only its own frame range.",
   "upgrade_url": "https://cgfamilystudio.gumroad.com/l/cgfs-rig-anim-toolkit-pro",
   "discount_url": ""
 }
